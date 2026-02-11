@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: jintiano332/check_v2ray_config  # 替换为目标仓库
-          token: ${{ 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 }}  # 使用 Personal Access Token
+          token: ${{ secrets.PAT_TOKEN }}  # 使用 Personal Access Token
           path: target-repo
 
       - name: Copy and commit changes

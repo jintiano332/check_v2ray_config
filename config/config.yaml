@@ -87,4 +87,6 @@ sub-urls-retry: 3
 sub-urls:
   - https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt
   - https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
+  - https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
+  - https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
   #- https://raw.githubusercontent.com/jackrun123/check_v2ray_config/refs/heads/main/tmp/v2ray.txt
